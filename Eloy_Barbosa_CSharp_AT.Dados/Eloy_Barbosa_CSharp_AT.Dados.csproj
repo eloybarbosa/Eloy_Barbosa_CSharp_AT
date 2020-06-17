@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Eloy_Barbosa_CSharp_AT.Aniversariante\Eloy_Barbosa_CSharp_AT.Dominio.csproj" />
+  </ItemGroup>
+
+</Project>
