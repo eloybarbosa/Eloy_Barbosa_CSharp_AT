@@ -88,7 +88,7 @@ namespace Eloy_Barbosa_CSharp_AT
             Console.Clear();
             Cabecalho();
 
-            EscreverNaTela("Cadastrando Aniversáriante");
+            EscreverNaTela("Cadastrando Aniversariante");
             EscreverNaTela("");
             EscreverNaTela("Digite o Nome:");
             string nome = Console.ReadLine();
@@ -254,7 +254,7 @@ namespace Eloy_Barbosa_CSharp_AT
                 }
             }           
                             
-            EscreverNaTela("Cadastrando Aniversáriante");
+            EscreverNaTela("Editando Aniversariante");
             EscreverNaTela("");
             EscreverNaTela("Digite o Nome:");
             string newNome = Console.ReadLine();
